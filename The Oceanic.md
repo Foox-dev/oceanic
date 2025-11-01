@@ -89,7 +89,7 @@ The Oceanic's story begins in between **Rivulet** and **Saints** campaign, where
 ASCII Timeline because I can:
 
 	Spearmaster     Artificer     Hunter     Gourmand     Survivor&Monk     Rivulet     Oceanic     Saint
-	     |  	    |            |          |               |              |           |          |
+	     |  	    	|            |          |               |              |           |          |
 	     +--------------+------------+----------+---------------+--------------+-----------+----------+
 	     
 	PS: This looks very bad when not in a markdown viewer!
