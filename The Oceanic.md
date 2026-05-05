@@ -310,7 +310,7 @@ Curiosity covers over the deep void left by their solitude. Thinking and learnin
 
 To them, the world is like water, always shifting, never the same twice. Nothing lasts, not light, not the calm, not even the things they love. Because of this view, they've stopped loving anything too deeply, since it was easier that way. They keep everything they can't understand buried so deep, that to them, they don't even exist. But it scratches, it claws, it **yearns** to be free. A cloud can only hold so much water before it starts to fall...
 
-The Oceanic's world is exhausting to them, never a pause in the downpour of thoughts. But not thinking hurts to much to bare. Even in safety and peace, the drip never stops, the thoughts of how things work. What would the name of this be...? What's this thing...? What's that thing...? *What would it feel like to not be **alone***
+The Oceanic's world is exhausting to them, never a pause in the downpour of thoughts. But not thinking hurts too much to bare. Even in safety and peace, the drip never stops, the thoughts of how things work. What would the name of this be...? What's this thing...? What's that thing...? *What would it feel like to not be **alone***
 
 ___
 
@@ -329,7 +329,7 @@ However, the biodiversity of this region is densely clustered in patches and spa
 
 Of course, life always finds a way. At the depths of the Basin, where the earth fissures and cracks, some creatures are said to have learned to survive off the void fluid, in a similar way the ancients once did. But that’s just a myth, and likely not to be true.
 
-The main biome with the most biodiversity is the **Shelves**, which are scattered all throughout the Basin. The Shelfs sit at the hit depth for rainfall impact, so most life hides beneath rock formations, overhangs, or other geological structures that can shield anything below.
+The main biome with the most biodiversity are the **Shelves**, which are scattered all throughout the Basin. The Shelfs sit at the hit depth for rainfall impact, so most life hides beneath rock formations, overhangs, or other geological structures that can shield anything below.
 
 - **Abyss:** A deep region where sunlight cannot penetrate. Sparse life survives here, but it is shielded from rainfall, providing safety from environmental disturbances.
 
@@ -415,7 +415,7 @@ They swam up to the surface, popping their head above the water's surface, looki
  
 Time passed. Nothing but water and their own thoughts. In the midst of this, a worry crossed their mind: *What if the rain comes before I find a shelter...?* They brushed the thought aside, and kept swimming, a bit faster now. Swimming quietly for a bit, they were left to think about what they found this cycle. *Where am I... what is the pillar for... what could that creature be? It couldn't be a fish... it doesn't look like a lizard or a vulture... I swear I've seen something like it before, I had to... but where... where did I see something like that...*
  
-They were brought out of their thoughts as they noticed the sky start to darken, clouds covering the sky. As the first drops of rain shot into the water around them, they spotted something... a small cliff with coral underneath it... a possible, if they were lucky, a shelter! They swam as fast as they could... *I'm not going to make it*... they felt the water starting to push them around... *I'm not going to make it*... lifted sand started to block their vision... *I'm not going to make it*.
+They were brought out of their thoughts as they noticed the sky start to darken, clouds covering the sky. As the first drops of rain shot into the water around them, they spotted something. A small cliff with coral underneath it. a possible, if they were lucky, shelter! They swam as fast as they could... *I'm not going to make it*... they felt the water starting to push them around. *I'm not going to make it*... lifted sand started to block their vision. *I'm not going to make it*.
  
 Suddenly, through the sand impairing their vision, they saw a pipe in the middle of the sand. Stopping quickly and taking a glance, *a shelter pipe!* A drop of water shot beside them, almost slamming into Oceanic. They raced into it as a spear of rain almost hit them again. They dropped in and floated down to the floor, letting out a big sigh of relief. They thought they were dead for sure. Water draining from the shelter loudly, they laid their head down, staring at the shelter's bland roof, still full of adrenaline. The adrenaline faded. Thoughts slowed. They were almost asleep when it hit them. **Food.**
 
@@ -539,15 +539,15 @@ Woken by the loud sound of the shelter door opening, Oceanic jolted awake. They 
 
 Yarrow got up, getting into the shelter's pipe. Oceanic soon followed. Blinded by the bright sun, they blinked a bit as their eyes adjusted.
 
-"We should probably find food before we do much!" Yarrow started walking deeper into the structure. "I- I guess, yeah." Oceanic stumbled a bit as they caught up. Walking through the structure, the architecture was strange and confusing. *Yarrow seems to navigate it well.*
+"We should probably find food before we do much!" Yarrow started walking deeper into the structure. 
+
+"I- I guess, yeah." Oceanic stumbled a bit as they caught up. Walking through the structure, the architecture was strange and confusing. *Yarrow seems to navigate it well.*
 
 "Do you like it out here? The land I mean." Yarrow asked.
 
 "It's... different." A silence went on a bit too long. *Say something...* "Uhm... More food up here." They added.
 
-Yarrow let out a small giggle. "Yeah, there's a lot more food."
-
-"Speaking of food, there's some right up there!" Yarrow started running ahead. Oceanic jumped a bit at their sudden movement. After what felt like too long, they decided to catch up, running toward Yarrow to close the distance.
+Yarrow let out a small giggle. "Yeah, there's a lot more food." a moment of silence passed. "Speaking of food, there's some right up there!" Yarrow started running ahead. Oceanic jumped a bit at their sudden movement. After what felt like too long, they decided to catch up, running toward Yarrow to close the distance.
 
 Yarrow suddenly stopped, which caused Oceanic to crash into him from behind. Oceanic fell to the ground.
 
@@ -555,9 +555,13 @@ Yarrow suddenly stopped, which caused Oceanic to crash into him from behind. Oce
 
 "Look, some blue fruit!" Yarrow pointed up. It seemed a bit too far to grab from jumping alone. "Do you think you could help me up and then I could grab it for us?"
 
-"I- uhm... sure?" A bit unsure, they still complied. Oceanic held onto Yarrow and helped him up. He stood on their shoulders and was quite heavy. "H-hurry up-" Oceanic exclaimed. "Almost... done!" Yarrow hopped off with a handful of blue fruit. They handed a few to Oceanic and started eating.
+"I- uhm... sure?" A bit unsure, they still complied. Oceanic held onto Yarrow and helped him up. He stood on their shoulders and was quite heavy. "H-hurry up-" Oceanic exclaimed. 
 
-Oceanic followed suit and started enjoying the meal. They sat down. Yarrow sat beside them. "That was fun. Most fun I've had in a while, actually." A little giggle slipped out of Yarrow. "Yeah..." Oceanic responded. They both continued enjoying the meal.
+"Almost... done!" Yarrow hopped off with a handful of blue fruit. They handed a few to Oceanic and started eating.
+
+Oceanic followed suit and started enjoying the meal. They sat down. Yarrow sat beside them. "That was fun. Most fun I've had in a while, actually." A little giggle slipped out of Yarrow. 
+
+"Yeah..." Oceanic responded. They both continued enjoying the meal.
 
 Yarrow stretched after eating, rolling his shoulders. "Slept well at least. Better than I have in a while, actually."
 
@@ -565,7 +569,11 @@ A small smile. Then they were moving again.
 
 "We should probably get moving!" Yarrow said. Yarrow got up and started moving deeper into the building. Oceanic followed suit. Reaching a pipe, Yarrow entered it. *They seemed so confident. Everything seemed so easy for them... it's annoying.* Oceanic entered it too. Coming out the other side, they saw a big drop with a pool of water below it.
 
-"Guess we have to jump down. Are you afraid of heights?" Yarrow asked jokingly. "No." They watched as Yarrow jumped down into the water. They walked to the edge and looked down at Yarrow far below. Taking a deep breath, they jumped off the ledge, falling down. Adrenaline rushed through their body as they went faster and faster, until **plunk!** they dropped into the water.
+"Guess we have to jump down. Are you afraid of heights?" Yarrow asked jokingly. 
+
+"No."
+
+They watched as Yarrow jumped down into the water. They walked to the edge and looked down at Yarrow far below. Taking a deep breath, they jumped off the ledge, falling down. Adrenaline rushed through their body as they went faster and faster, until **plunk!** They dropped into the water.
 
 Oceanic surfaced and looked at Yarrow, who was already out.
 
@@ -573,17 +581,25 @@ Oceanic surfaced and looked at Yarrow, who was already out.
 
 They got out of the water and followed Yarrow. Going into another pipe, they entered a cramped, long room. Slowly crawling to the end and entering another pipe, they entered a big open room with a shelter at the end of it.
 
-"Wow, big room.." Oceanic said quietly. "Yeah!" Yarrow responded.
+"Wow, big room.." Oceanic said quietly. 
 
-"Do you want to go to the shelter right away, or explore a bit?" Yarrow asked. "We should probably enter the shelter now... we can explore after." Oceanic responded.
+"Yeah!" Yarrow responded.
+
+"Do you want to go to the shelter right away, or explore a bit?" Yarrow asked. 
+
+"We should probably enter the shelter now... we can explore after." Oceanic responded.
 
 "Fair enough!" Yarrow started heading to the shelter, and Oceanic followed. They passed over some rocks and climbed a pile of rubble. Heading up a pole, they reached the shelter pipe. Entering it, the shelter seemed bigger than the last one. *Lots of room!* They both got comfortable on their sides of the shelter as the door closed.
 
-"Today was fun, Oceanic. I had fun." Yarrow said. "... I did too." They both drifted off to sleep.
+"Today was fun, Oceanic. I had fun." Yarrow said. 
+
+"... I did too." They both drifted off to sleep.
 
 Waking up as the door loudly opened, Oceanic felt a warmth across their body. Eyes blinking open, they saw Yarrow very close, basically touching. Panicked, Oceanic scrambled away to the corner of the shelter, waking Yarrow.
 
-"W-why were you so close..?" Oceanic asked. "Oh." He giggled a bit. "Must have drifted together during the night, my bad!" Yarrow laughed it off. "Why, did you like it~?" Yarrow teased jokingly.
+"W-why were you so close..?" Oceanic asked. 
+
+"Oh." He giggled a bit. "Must have drifted together during the night, my bad!" Yarrow laughed it off. "Why, did you like it~?" Yarrow teased jokingly.
 
 "No. I was just confused about why you were so close..." Oceanic responded.
 
@@ -591,3 +607,10 @@ Waking up as the door loudly opened, Oceanic felt a warmth across their body. Ey
 
 ## Chapter 6 -- Still Water
 coming soon...
+
+## Todo
+
+- The glowing and purple color on the Oceanic is used to attract creatures for food.
+- Rewrite jetfish scene
+- Rewrite Action descriptions to be more stale and less repetitive (they swam, they saw)
+- Estrogen levels high enough it turns off the lights (during egg)
